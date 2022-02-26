@@ -33,7 +33,7 @@ In this Project we are animating the changes of life Expectancy and Fertility an
 
         draw a scatterplot with matplotlib
 
-        create an animated scatterplot – like the one by [Hans Rosling](https://youtu.be/jbkSRLYSojo).
+        create an animated scatterplot – like the one by [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo&feature=youtu.be).
 
         upload your code to GitHub
 
